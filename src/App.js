@@ -8,9 +8,9 @@ function App() {
   return (
     <main className="App">
 
-      {/* <Login /> */}
+      <Login /> 
       {/* <Register /> */}
-      <StatusEkle />
+      {/* <StatusEkle /> */}
     
     </main>
   );
